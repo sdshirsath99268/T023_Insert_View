@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">T023_Insert_View</string>
+    <string-array name="citySpinner">
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Chennai</item>
+        <item>Kolkata</item>
+        <item>Jalgaon</item>
+        <item>Bhusaval</item>
+    </string-array>
+</resources>
